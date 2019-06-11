@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/LiveChat/v15
+/LiveChat/obj
+/LiveChat/bin/Debug/netcoreapp2.1
